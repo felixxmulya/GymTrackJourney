@@ -1,6 +1,6 @@
 # Gym Track Journey
 
-FitTrack Journey is a workout tracking app built with React Native and TypeScript. It allows users to track their workouts, including weight, reps, and sets, and provides authentication using Google Sign-In via Firebase.
+Gym Track Journey is a workout tracking app built with React Native and TypeScript. It allows users to track their workouts, including weight, reps, and sets, and provides authentication using Google Sign-In via Firebase.
 
 ## Features
 
